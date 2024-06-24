@@ -1,4 +1,9 @@
 <div align=center>
+    <h3>SEOJIN PARK</h3>
+    <h4>📝study blog📝</h4> 
+    [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={https://corner-ds.tistory.com/}&postId={272})](https://github.com/loosie/github-readme-tistory-card)
+
+    ---
     <h2>💫Tech Stack💫</h2>
     <h3>🖥️platforms & Languages🖥️</h3>
     <h4>back-end</h4>
