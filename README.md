@@ -1,12 +1,8 @@
 <div align=center>
     <h3>🍏SEOJIN PARK🍏</h3>
     <h4>📝study blog📝</h4> 
-    <a href="https://corner-ds.tistory.com/" style="text-decoration: none;">
-        <span style="text-decoration: none; color: inherit;">🛠️기술블로그</span>
-    </a>
-
-    <a href="https://corner-ds.tistory.com/" style="text-decoration: none; color: inherit;">🛠️기술블로그</a>
-    -----
+    <b><a href="https://corner-ds.tistory.com/" style="color: inherit;">🛠️기술블로그</a></b>
+    <hr>
     <h3>💫Tech Stack💫</h3>
     <h3>🖥️platforms & Languages🖥️</h3>
     <h4>back-end</h4>
