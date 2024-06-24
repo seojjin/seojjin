@@ -1,8 +1,9 @@
 <div align=center>
     <h3>🍏SEOJIN PARK🍏</h3>
     <h4>📝study blog📝</h4> 
-    <a href="https://corner-ds.tistory.com/">🛠️기술블로그</a>
-    <h2>💫Tech Stack💫</h2>
+    <a href="https://corner-ds.tistory.com/" style="text-decoration: none; color: inherit;">🛠️기술블로그</a>
+    ---
+    <h3>💫Tech Stack💫</h3>
     <h3>🖥️platforms & Languages🖥️</h3>
     <h4>back-end</h4>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
