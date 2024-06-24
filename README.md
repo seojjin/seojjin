@@ -3,7 +3,6 @@
     <h4>📝study blog📝</h4> 
     <a href="https://corner-ds.tistory.com/">
 
-    ---
     <h2>💫Tech Stack💫</h2>
     <h3>🖥️platforms & Languages🖥️</h3>
     <h4>back-end</h4>
