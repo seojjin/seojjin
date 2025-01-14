@@ -1,4 +1,5 @@
 <div>
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SEOJIN'S GITHUB&fontSize=90" />
     <h1>SEOJIN PARK</h1>
     <p>I am Seojin, a Java Backend Web Developer.</p>
     <h2>🔍 Skills 🔍</h2>
