@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=SOEJIN's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=SEOJIN's%20GitHub&fontSize=70&animation=scaleIn)
 <div>
     <h1>SEOJIN PARK</h1>
     <p>I am Seojin, a Java Backend Web Developer.</p>
