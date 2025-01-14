@@ -1,7 +1,6 @@
 <div>
     <h1>박 서 진</h1>
     <p>Java 백엔드 웹 개발자 박서진입니다.</p>
-    
     <h2>🔍 Skills 🔍</h2>
     <h3>Back-End</h3>
     <p>
