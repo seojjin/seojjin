@@ -1,6 +1,6 @@
 <div>
-    <h1>박 서 진</h1>
-    <p>Java 백엔드 웹 개발자 박서진입니다.</p>
+    <h1>SEOJIN PARK</h1>
+    <p>I am Seojin, a Java Backend Web Developer.</p>
     <h2>🔍 Skills 🔍</h2>
     <h3>Back-End</h3>
     <p>
@@ -21,15 +21,16 @@
     <h2>🎓 Education 🎓</h2>
     <p>
         <strong>2021.03 - 2025.02</strong><br>
-        덕성여자대학교 컴퓨터공학전공
+        Duksung Women's University, Major in Computer Science
     </p>
     <hr>
     <h2>🏆 Awards 🏆</h2>
     <ul>
-        <li><strong>2024.12.04</strong> 🎖️ 2024 이브와 ICT 멘토링 공모전 대상 (과학기술통신부 장관상)</li>
-        <li><strong>2024.02.18</strong> 🎖️ 2024 교내 코터 해커톤 우수상</li>
-        <li><strong>2023.08.28</strong> 🎖️ 2023 덕성여대 제2회 연합해커톤 학생투표상</li>
+        <li><strong>2024.12.04</strong> 🎖️ 2024 ICT Mentoring Contest Grand Prize (Minister of Science and ICT Award)</li>
+        <li><strong>2024.02.18</strong> 🎖️ 2024 CS Club CONER Hackathon Excellence Award</li>
+        <li><strong>2023.08.28</strong> 🎖️ 2023 Duksung Women's University 2nd Union Hackathon Student Voting Award</li>
     </ul>
 </div>
+
 
 
