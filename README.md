@@ -2,9 +2,9 @@
 
 <div>
     <table>
-        <tr style="margin-left: 40px;">
+        <tr>
             <td width="200" valign="top">
-                <img width="180" src="https://gitfut.com/seojjin.png" alt="My GitFut card">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="40" height="1" /><img width="180" src="https://gitfut.com/seojjin.png" alt="My GitFut card">
             </td>
             <td valign="top">
                 <h2>SEOJIN PARK</h2>
