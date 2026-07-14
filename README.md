@@ -4,7 +4,7 @@
         <tr>
             <td>
                 <a href="https://gitfut.com/seojjin">
-                    <img src="https://gitfut.com/seojjin.png" alt="My GitFut card" width="260">
+                    <img src="https://gitfut.com/seojjin.png" alt="My GitFut card" width="100">
                 </a>
             </td>
             <td>
