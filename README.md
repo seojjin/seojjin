@@ -17,7 +17,6 @@
             </tr>
         </table>
     </div>
-
     <h2>🔍 Skills 🔍</h2>
     <h3>Back-End</h3>
     <p>
