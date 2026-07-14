@@ -2,7 +2,7 @@
 
 <div>
     <table>
-        <tr>
+        <tr style="margin-left: 40px;">
             <td width="200" valign="top">
                 <img width="180" src="https://gitfut.com/seojjin.png" alt="My GitFut card">
             </td>
