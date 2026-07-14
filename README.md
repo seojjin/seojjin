@@ -1,20 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=SEOJIN's%20GitHub&fontSize=70&animation=scaleIn)
 
 <div>
-    <table>
-        <tr>
-            <td width="200" valign="top">
-                <img width="180" src="https://gitfut.com/seojjin.png" alt="My GitFut card">
-            </td>
-            <td valign="top">
-                <h2>SEOJIN PARK</h2>
-                <p>I am Seojin, a Java Backend Web Developer.</p>
-                <p>🎓 Duksung Women's University, Computer Science</p>
-                <p>🏫 SSAFY 13th — Java Track</p>
-                <p>📍 Seoul, Korea</p>
-            </td>
-        </tr>
-    </table>
+    <div align="center">
+        <table>
+            <tr>
+                <td width="200" valign="top">
+                    <img width="180" src="https://gitfut.com/seojjin.png" alt="My GitFut card">
+                </td>
+                <td valign="top">
+                    <h2>SEOJIN PARK</h2>
+                    <p>I am Seojin, a Java Backend Web Developer.</p>
+                    <p>🎓 Duksung Women's University, Computer Science</p>
+                    <p>🏫 SSAFY 13th — Java Track</p>
+                    <p>📍 Seoul, Korea</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+
     <h2>🔍 Skills 🔍</h2>
     <h3>Back-End</h3>
     <p>
