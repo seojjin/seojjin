@@ -5,7 +5,6 @@
     <h2>SEOJIN PARK</h2>
     <p>I am Seojin, a Java Backend Web Developer.</p>
     <br clear="left">
-    
     <h2>🔍 Skills 🔍</h2>
     <h3>Back-End</h3>
     <p>
