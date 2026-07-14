@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=SEOJIN's%20GitHub&fontSize=70&animation=scaleIn)
 
 <div>
-    <table>
+    <table align="center>
         <tr>
             <td width="200" valign="top">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="40" height="1" /><img width="180" src="https://gitfut.com/seojjin.png" alt="My GitFut card">
+                <img width="180" src="https://gitfut.com/seojjin.png" alt="My GitFut card">
             </td>
             <td valign="top">
                 <h2>SEOJIN PARK</h2>
