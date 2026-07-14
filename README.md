@@ -14,6 +14,7 @@
             <p>🏫 SSAFY 13th — Java Track</p>
             <p>📍 Seoul, Korea</p>
           </td>
+          <td width="100"></td> <!-- 오른쪽에 무게 실어서 살짝 왼쪽으로 -->
         </tr>
       </table>
     </div>
