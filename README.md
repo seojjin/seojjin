@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=SEOJIN's%20GitHub&fontSize=70&animation=scaleIn)
 <div>
     <img align="left" width="150" src="https://gitfut.com/seojjin.png" alt="My GitFut card" hspace="25" vspace="10">
-
     <h2>SEOJIN PARK</h2>
     <p>I am Seojin, a Java Backend Web Developer.</p>
     <br clear="left">
