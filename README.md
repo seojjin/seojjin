@@ -2,6 +2,9 @@
 <div>
     <h1>SEOJIN PARK</h1>
     <p>I am Seojin, a Java Backend Web Developer.</p>
+    <a href="https://gitfut.com/seojjin">
+        <img src="https://gitfut.com/seojjin.png" alt="My GitFut card">
+    </a>    
     <h2>🔍 Skills 🔍</h2>
     <h3>Back-End</h3>
     <p>
@@ -32,7 +35,7 @@
     <h2>🏆 Awards 🏆</h2>
     <ul>
         <li><strong>2024.12.04</strong> 🎖️ 2024 ICT Mentoring Contest Grand Prize (Minister of Science and ICT Award)</li>
-        <li><strong>2025.11.20</strong> 🎖️ SSAFY Self-Directet Project Excellence Award (Samsung Corporation)</li>
+        <li><strong>2025.11.20</strong> 🎖️ SSAFY Self-Directed Project Excellence Award (Samsung Corporation)</li>
         <li><strong>2025.09.29</strong> 🎖️ SSAFY Specialized Project Excellence Award (Samsung Corporation)</li>
         <li><strong>2025.08.18</strong> 🎖️ SSAFY Common Project Excellence Award (Samsung Corporation)</li>
         <li><strong>2024.02.18</strong> 🎖️ 2024 CS Club CONER Hackathon Excellence Award</li>
