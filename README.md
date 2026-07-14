@@ -2,9 +2,11 @@
 <div>
     <h1>SEOJIN PARK</h1>
     <p>I am Seojin, a Java Backend Web Developer.</p>
-    <a href="https://gitfut.com/seojjin">
-        <img src="https://gitfut.com/seojjin.png" alt="My GitFut card">
-    </a>    
+    <div align="center">
+        <a href="https://gitfut.com/seojjin">
+            <img src="https://gitfut.com/seojjin.png" alt="My GitFut card" width="300">
+        </a>
+    </div>   
     <h2>🔍 Skills 🔍</h2>
     <h3>Back-End</h3>
     <p>
