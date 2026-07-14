@@ -4,6 +4,7 @@
     <div align="center">
       <table>
         <tr>
+          <td width="150"></td> <!-- 왼쪽에 무게 실어서 오른쪽으로 밀기 -->
           <td width="200" valign="top">
             <img width="180" src="https://gitfut.com/seojjin.png" alt="My GitFut card">
           </td>
@@ -14,7 +15,6 @@
             <p>🏫 SSAFY 13th — Java Track</p>
             <p>📍 Seoul, Korea</p>
           </td>
-          <td width="100"></td> <!-- 오른쪽에 무게 실어서 왼쪽으로 밀기 -->
         </tr>
       </table>
     </div>
