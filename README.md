@@ -10,7 +10,6 @@
                 <h2>SEOJIN PARK</h2>
                 <p>I am Seojin, a Java Backend Web Developer.</p>
                 <p>🎓 Duksung Women's University, Computer Science</p>
-                <p>🏫 SSAFY 13th — Java Track</p>
                 <p>📍 Seoul, Korea</p>
             </td>
         </tr>
