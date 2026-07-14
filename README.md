@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=SEOJIN's%20GitHub&fontSize=70&animation=scaleIn)
 
 <div>
-    <div align="center">
+    <div align="right">
       <table>
         <tr>
-          <td width="150"></td> <!-- 왼쪽에 무게 실어서 오른쪽으로 밀기 -->
           <td width="200" valign="top">
             <img width="180" src="https://gitfut.com/seojjin.png" alt="My GitFut card">
           </td>
