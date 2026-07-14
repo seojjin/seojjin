@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=SEOJIN's%20GitHub&fontSize=70&animation=scaleIn)
 
 <div>
-    <div align="right">
+    <div align="center">
       <table>
         <tr>
           <td width="200" valign="top">
